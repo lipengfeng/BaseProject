@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TranslateTabBar">
+        <attr name="textColor" format="reference|color"/>
+        <attr name="translateLineColor" format="reference|color"/>
+        <attr name="bottomLineColor" format="reference|color"/>
+        <attr name="spliteLineColor" format="reference|color"/>
+        <attr name="buttonCount" format="integer"/>
+        <attr name="text" format="reference"/>
+        <attr name="lineWidth" format="dimension"/>
+    </declare-styleable>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <!-- system color-->
+    <color name="colorWhite">#ffffff</color>
+
+    <!-- app color-->
+    <color name="titlebar_bg_color">#47a2c1</color>
+    <color name="titlebar_text_color">#EEEEEE</color>
+    <color name="app_bg_color">#fbfcfc</color>
+
+    <color name="text_blue">#0b86ee</color>
+    <color name="text_white">#ffffff</color>
+    <color name="text_hint_normal_color">#494a4d</color>
+
+    <color name="titlebar_bg_color3">#ff1930</color>
+    <color name="titlebar_bg_color4">#0b86ee</color>
+    <color name="main_layout_bg_color">#f5f5f9</color>
+
+</resources>
