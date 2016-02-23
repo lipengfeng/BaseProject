@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\ww\\bank-android-banker\\refreshlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "D:\\ww\\bank-android-banker\\refreshlibrary\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\BaseProject\\refreshlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "D:\\AndroidProject\\BaseProject\\refreshlibrary\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]

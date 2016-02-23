@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\AndroidProject\\BaseProject\\refreshlibrary\\build\\intermediates\\res\\merged\\release\\layout\\view_listview.xml",
+        "source": "D:\\AndroidProject\\BaseProject\\refreshlibrary\\src\\main\\res\\layout\\view_listview.xml"
+    },
+    {
+        "merged": "D:\\ww\\bank-android-banker\\refreshlibrary\\build\\intermediates\\res\\merged\\release\\layout\\view_listview.xml",
+        "source": "D:\\ww\\bank-android-banker\\refreshlibrary\\src\\main\\res\\layout\\view_listview.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\BaseProject\\refreshlibrary\\build\\intermediates\\res\\merged\\release\\layout\\view_scrollview.xml",
+        "source": "D:\\AndroidProject\\BaseProject\\refreshlibrary\\src\\main\\res\\layout\\view_scrollview.xml"
+    },
+    {
+        "merged": "D:\\ww\\bank-android-banker\\refreshlibrary\\build\\intermediates\\res\\merged\\release\\layout\\view_scrollview.xml",
+        "source": "D:\\ww\\bank-android-banker\\refreshlibrary\\src\\main\\res\\layout\\view_scrollview.xml"
+    }
+]
