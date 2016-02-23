@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\AndroidProject\BaseProject\libray\src\main\jniLibs"><file name="armeabi/libbitherjni.so" path="D:\AndroidProject\BaseProject\libray\src\main\jniLibs\armeabi\libbitherjni.so"/><file name="armeabi/libjpegbither.so" path="D:\AndroidProject\BaseProject\libray\src\main\jniLibs\armeabi\libjpegbither.so"/></source></dataSet><dataSet config="debug"><source path="D:\AndroidProject\BaseProject\libray\src\debug\jniLibs"/></dataSet></merger>
